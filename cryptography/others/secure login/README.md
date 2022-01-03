@@ -1,4 +1,4 @@
-# Secure Login
+### Secure Login
 Script for secure login with hash and random salt.
 This script was developed with educational purposes
 to facilitate understanding, all basic functions 
